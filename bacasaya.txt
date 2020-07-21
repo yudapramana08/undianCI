@@ -1,0 +1,8 @@
+akses undian 
+localhost/undian
+
+akses admin
+localhost/admin
+user : admin	
+pass : admin
+

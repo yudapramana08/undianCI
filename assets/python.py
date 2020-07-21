@@ -1,0 +1,1 @@
+print("Silahkan ambil tempat duduk")
